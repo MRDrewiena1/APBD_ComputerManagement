@@ -5,7 +5,7 @@
 
 # dotenv files
 .env
-.xml
+*.xml
 
 # User-specific files
 *.rsuser
